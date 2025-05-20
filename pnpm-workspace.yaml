@@ -1,0 +1,4 @@
+ignoredBuiltDependencies:
+  - argon2
+onlyBuiltDependencies:
+  - esbuild
